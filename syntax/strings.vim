@@ -1,5 +1,3 @@
-syntax clear
-
 syn region	stringsComment start="//" end="$"
 syn region	stringsComment start="/\*" end="\*/"
 
