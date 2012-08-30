@@ -8,7 +8,7 @@ Installation
 
 * Install [Pathogen][pathogen]. (You're already using Pathogen, right?)
 * Clone this project into `~/.vim/bundle/cocoa_strings`.
-* Add this to your .vimrc file:
+* Add this to your `.vimrc` file:
 
 ```vim
 " You may already have these settings. Add them if not:
