@@ -8,15 +8,7 @@ Installation
 
 * Install [Pathogen][pathogen]. (You're already using Pathogen, right?)
 * Clone this project into `~/.vim/bundle/cocoa_strings`.
-* Add this to your `.vimrc` file:
 
-```vim
-" You may already have these settings. Add them if not:
-syntax on
-filetype plugin
-
-" Then add this setting.
-autocmd BufNewFile,BufReadPost *.strings setlocal filetype=strings
-```
+Any file `*.strings` will be highlighted.
 
 [pathogen]: https://github.com/tpope/vim-pathogen/
