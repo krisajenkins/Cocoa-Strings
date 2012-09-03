@@ -9,6 +9,6 @@ Installation
 * Install [Pathogen][pathogen]. (You're already using Pathogen, right?)
 * Clone this project into `~/.vim/bundle/cocoa_strings`.
 
-Any file `*.strings` will be highlighted.
+Any `*.strings` file will be highlighted.
 
 [pathogen]: https://github.com/tpope/vim-pathogen/
